@@ -2,6 +2,13 @@
 
 <img alt="Mustafa" width="400" src="https://github.com/mustafa0x01/mustafa0x01/assets/121257754/fd1d9c91-c278-4608-af8a-ed0f25dc4976">
 <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF700&width=435&lines=Hello%2C+i%E2%80%99am+Mustafa%2C+i+have+a+great;admiration+for+WEB+projects%2C;I+am+in+love+with+Cyber+Security+And;I+am+always+willing+to+improve;+myself.+)](https://git.io/typing-svg)
+
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=mustafa0x01&color=green)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=-%20Safe%20System%3F%21%0A%0A%2B%20Pretty%20funny%20😂%29&author=Wise%20Man)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <a href="https://twitter.com/codecansafer" target="blank">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">  
 </a>
