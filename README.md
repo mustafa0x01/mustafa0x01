@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="Mustafa" width="400" src="https://github.com/mustafa0x01/mustafa0x01/assets/121257754/fd1d9c91-c278-4608-af8a-ed0f25dc4976">
+<img alt="Mustafa" width="400" src="https://github.com/mustafa0x01/mustafa0x01/assets/121257754/fd1d9c91-c278-4608-af8a-ed0f25dc4976">
 <!--
 **mustafa0x01/mustafa0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
