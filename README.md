@@ -15,7 +15,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on [@Hacker0x01](https://github.com/Hacker0x01)
+- 🔭 I’m currently working on [@Hacker0x01](https://github.com/Hacker0x01) for BugBounty Hunter Position
 - 🌱 I’m currently learning Laravel & NodeJS
 <!-- 
 - 👯 I’m looking to collaborate on ...
