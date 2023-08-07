@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![pp](https://github.com/mustafa0x01/mustafa0x01/assets/121257754/fd1d9c91-c278-4608-af8a-ed0f25dc4976)
+<img align="center" alt="Mustafa" width="400" src="https://github.com/mustafa0x01/mustafa0x01/assets/121257754/fd1d9c91-c278-4608-af8a-ed0f25dc4976">
 <!--
 **mustafa0x01/mustafa0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +25,6 @@ for help with ...
 - ⚡ Fun fact: ...
 -->
 [![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa0x01&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa0x01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Mustafa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mustafa0x01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa0x01&layout=compact&theme=matrix)](https://github.com/anuraghazra/github-readme-stats)
+[![Mustafa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mustafa0x01&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mustafa0x01&theme=matrix&title=Stars,Followers&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
