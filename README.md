@@ -1,6 +1,29 @@
 ### Hi there 👋
 
 <img alt="Mustafa" width="400" src="https://github.com/mustafa0x01/mustafa0x01/assets/121257754/fd1d9c91-c278-4608-af8a-ed0f25dc4976">
+<br>
+<a href="https://twitter.com/codecansafer" target="blank">
+
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  
+</a>
+<a href="https://mastodon.social/@mustafa0x01" target="blank">
+
+![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)  
+</a>
+<a href="https://hackerone.com/codecansafer" target="blank">
+
+  ![HackerOne](https://svgur.com/i/wFW.svg)
+  
+</a>
+<a href="https://linkedin.com/in/mustafa0x01" target="blank">
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
+</a>
+<a href="https://mustafa0x01.medium.com" target="blank">
+
+  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+  
+</a>
 <!--
 **mustafa0x01/mustafa0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
