@@ -49,5 +49,7 @@ for help with ...
 -->
 [![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa0x01&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa0x01&layout=compact&theme=matrix)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
 [![Mustafa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mustafa0x01&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=mustafa0x01&theme=matrix&title=Stars,Followers&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
