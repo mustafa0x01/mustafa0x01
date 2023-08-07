@@ -9,21 +9,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=-%20Safe%20System%3F%21%0A%0A%2B%20Pretty%20funny%20😂%29&author=Wise%20Man)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<a href="https://twitter.com/codecansafer" target="blank">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">  
-</a>
-<a href="https://mastodon.social/@mustafa0x01" target="blank">
-<img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white">  
-</a>
-<a href="https://hackerone.com/codecansafer" target="blank">
-  <img src="https://svgur.com/i/wFW.svg">  
-</a>
-<a href="https://linkedin.com/in/mustafa0x01" target="blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">  
-</a>
-<a href="https://mustafa0x01.medium.com" target="blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
 <!--
 **mustafa0x01/mustafa0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,11 +24,23 @@ for help with ...
 -->
 - 💬 Ask me about Pentesting
 - 📫 How to reach me:
-  - [@codecansafer (X)](https://twitter.com/codecansafer) 
-  - [in/@mustafa0x01 (Linkedln)](https://www.linkedin.com/in/mustafa0x01/)
-  - [codecansafer (HackerOne)](https://hackerone.com/codecansafer)
-  - [mustafa0x01@mastodon.social (Mastodon)](https://mastodon.social/@mustafa0x01)
-  - [mustafa0x01.medium.com (Medium)](https://mustafa0x01.medium.com/)
+<a href="https://twitter.com/codecansafer" target="blank">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">  
+</a>
+<a href="https://mastodon.social/@mustafa0x01" target="blank">
+<img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white">  
+</a>
+<a href="https://hackerone.com/codecansafer" target="blank">
+  <img src="https://svgur.com/i/wFW.svg">  
+</a>
+<a href="https://linkedin.com/in/mustafa0x01" target="blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">  
+</a>
+<a href="https://mustafa0x01.medium.com" target="blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<br><br>
+
 <!--  - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
