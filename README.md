@@ -7,10 +7,10 @@
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=mustafa0x01&color=blue)
 
-<!--
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=-%20Safe%20System%3F%21%0A%0A%2B%20Pretty%20funny%20😂%29&author=uid%3D0%28root%29%20gid%3D0%28root%29%20groups%3D0%28root%29)](https://github.com/piyushsuthar/github-readme-quotes)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=Above%20every%20knower%20there%20is%20one%20who%20knows%20more.&author=Holy%20Quran%20Surah%20Yusuf%20-%2076%20.%20Verse)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<!-- 
 **mustafa0x01/mustafa0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
