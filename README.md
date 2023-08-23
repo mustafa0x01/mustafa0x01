@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-<img alt="Mustafa" width="400" src="https://github.com/mustafa0x01/mustafa0x01/assets/121257754/fd1d9c91-c278-4608-af8a-ed0f25dc4976">
+<img alt="Mustafa" width="400" src="https://github.com/mustafa0x01/mustafa0x01/assets/121257754/8c457dcb-b410-4b22-9816-e5163b5cfb82">
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF700&width=435&lines=Hello%2C+i%E2%80%99am+Mustafa%2C+i+have+a+great;admiration+for+WEB+projects%2C;I+am+in+love+with+Cyber+Security+And;I+am+always+willing+to+improve;+myself.+)](https://git.io/typing-svg)
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=mustafa0x01&color=green)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=-%20Safe%20System%3F%21%0A%0A%2B%20Pretty%20funny%20😂%29&author=uid%3D0%28root%29%20gid%3D0%28root%29%20groups%3D0%28root%29)](https://github.com/piyushsuthar/github-readme-quotes)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=mustafa0x01&color=blue)
 
 <!--
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=-%20Safe%20System%3F%21%0A%0A%2B%20Pretty%20funny%20😂%29&author=uid%3D0%28root%29%20gid%3D0%28root%29%20groups%3D0%28root%29)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 **mustafa0x01/mustafa0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
