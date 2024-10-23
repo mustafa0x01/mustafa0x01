@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Laravel & NodeJS
 
 - 👯 I’m looking to collaborate on project development and pentest
-- 🤔 I’m looking 
-for help with ...
-Yaptığım projeler :
+- 🤔 I’m looking for help with jobs and collab 
+  
+### my projects :
 - https://hamdolsunengelliyiz.org.tr
 - https://cleanlytemizlik.com/home
 - https://donmezbaranhukuk.rf.gd/home
