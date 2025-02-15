@@ -27,7 +27,7 @@
 - 🛍️ [ecommerce1.akalin.tech](https://ecommerce1.akalin.tech/) 🛒
 
 ### 📞 Connect with Me 📲
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0xCodeBoy)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mustafa0x02)  
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@mustafa0x01)  
 [![HackerOne](https://svgur.com/i/wFW.svg)](https://hackerone.com/mustafakalin)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafaakaln)  
