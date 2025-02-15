@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, ASSALAMUALAIKUM, merhaba, Hola, there 👋
+
+
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 <img alt="Mustafa" width="400" src="https://github.com/mustafa0x01/mustafa0x01/assets/121257754/8c457dcb-b410-4b22-9816-e5163b5cfb82">
 <br>
